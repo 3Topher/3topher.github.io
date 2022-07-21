@@ -54,25 +54,25 @@ battleZonesMap.forEach((row, i) => {
 console.log(battleZones)
 
 const image = new Image;
-image.src = './images/Pokemon Game Map.png';
+image.src = './Images/Pokemon Game Map.png';
 
 const imageBack = new Image;
-imageBack.src = './images/pokemonGameMapOverlap.png'
+imageBack.src = './Images/pokemonGameMapOverlap.png'
 
 const playerDownImage = new Image;
-playerDownImage.src = './images/playerDown.png'
+playerDownImage.src = './Images/playerDown.png'
 
 const playerUpImage = new Image;
-playerUpImage.src = './images/playerUp.png'
+playerUpImage.src = './Images/playerUp.png'
 
 const playerLeftImage = new Image;
-playerLeftImage.src = './images/playerLeft.png'
+playerLeftImage.src = './Images/playerLeft.png'
 
 const playerRightImage = new Image;
-playerRightImage.src = './images/playerRight.png'
+playerRightImage.src = './Images/playerRight.png'
 
 const battleBackgroundImage = new Image;
-battleBackgroundImage.src = './images/battleBackground.png'
+battleBackgroundImage.src = './Images/battleBackground.png'
 
 
 

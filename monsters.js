@@ -5,7 +5,7 @@ const monsters = {
             y: 325
         },
         image: {
-            src:'./images/embySprite.png'
+            src:'./Images/embySprite.png'
         },
         frames: {
             max: 4,
@@ -22,7 +22,7 @@ const monsters = {
             y: 100
         },
         image: {
-            src: './images/draggleSprite.png'
+            src: './Images/draggleSprite.png'
         },
         frames: {
             max: 4,
