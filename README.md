@@ -9,4 +9,4 @@ The JS/Tiled project I've been working on is finally finished!
 Visit 3topher.github.io and click the screen to activate sound. Use the WASD keys to move around and walk into the tall grass to activate random battles, this has full environmental collision detection. 
 
 ## Technologies
-Javascript, HTML
+Javascript, HTML, GSAP.JS, Tiled
